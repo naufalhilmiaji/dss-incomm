@@ -4,7 +4,9 @@
 Make sure you have already installed:
 
 ```
-Python 3.6+
+1. Python 3.6+
+2. Paho-mqtt
+3. Mosquitto
 ```
 ### Here is what you're looking for!
 
