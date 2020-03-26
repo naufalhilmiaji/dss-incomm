@@ -16,8 +16,8 @@ Python 3.6+
 </details>
 
 <details>
-  <summary>Client</summary>
-  <p>Python code for client</p>
+  <summary>Subscriber</summary>
+  <p>Python code for subscriber</p>
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr;&nbsp;[subscriber.ipynb](https://github.com/naufalhilmiaji/dss-pubsub/blob/master/subscriber.ipynb)
 </details>
