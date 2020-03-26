@@ -26,7 +26,7 @@ Python 3.6+
   <summary>File</summary>
   <p>File for transfer</p>
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr;&nbsp;[contoh.txt](https://github.com/naufalhilmiaji/dss-pubsub/blob/master/surf.jpg>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rarr;&nbsp;[contoh.txt](https://github.com/naufalhilmiaji/dss-pubsub/blob/master/surf.jpg)
 </details>
 
 ### Author
