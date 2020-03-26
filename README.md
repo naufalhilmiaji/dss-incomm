@@ -1,4 +1,4 @@
-# Basic File Transfer Protocol
+# Indirect Communication
 
 ### Prerequisites
 Make sure you have already installed:
